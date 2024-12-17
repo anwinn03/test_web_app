@@ -1,0 +1,7 @@
+flask
+matplotlib
+pandas
+gspread
+requests
+plotly
+oauth2client
